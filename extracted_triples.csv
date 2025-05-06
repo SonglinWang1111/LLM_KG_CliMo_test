@@ -1,0 +1,159 @@
+uuid,paper_id,heading,relationship,tail
+0,0,climatic change,has played a role in,urbanization in sub-Saharan Africa
+1,0,urbanization,is influenced by,rainfall
+2,0,urbanization in sub-Saharan Africa,has increased due to,shortages in rainfall
+3,0,urbanization,is driven by,internal migration
+4,0,rural-urban migration,accounts for,half of urban growth in Africa
+5,0,climate change,affects,urbanization patterns
+6,0,rainfall,has declined since,the 1960s
+7,0,urbanization rate,is higher in,sub-Saharan Africa compared to other developing countries
+8,0,decolonization,reinforced,the link between rainfall and urbanization
+9,0,urbanization,is not influenced by,rainfall in the rest of the developing world
+10,0,climatic conditions,push people towards,urban areas
+11,0,environmental migrants,are influenced by,climatic change
+12,0,urban growth,is achieved through,in-migration of agricultural populations
+13,0,urbanization,has increased due to,the lifting of migration restrictions post-colonization
+0,1,migration models,are,aspatial within chosen study regions
+1,1,migration-environment association,varies across,the study space
+2,1,migration,is an adaptive strategy,in face of livelihood decline
+3,1,households,make use of,natural resources for dietary and household uses
+4,1,natural resources,serve as,safety nets for vulnerable households
+5,1,migration,is impacted by,changing environmental conditions
+6,1,migration-environment associations,vary under,different socio-ecological conditions
+7,1,spatial non-stationarity,is examined in,migration-environment connections
+8,1,socio-economic status (SES),is an important explanatory variable for,migration
+9,1,NDVI,is used as,an indicator of natural resource availability
+10,1,spatial variation,exists in,migration-environment associations
+11,1,outmigration propensity,is influenced by,access to natural resources
+12,1,local estimators,suffer from,induced spatial heterogeneity
+13,1,spatial permutation method,allows for,local coefficients estimation
+14,1,temporary outmigration,is associated with,socio-economic status and NDVI
+15,1,geographic scale,affects,migration-environment associations
+16,1,community-level dynamics,are important for,migration decisions
+17,1,environmental change,impacts,model associations
+18,1,future research,will examine,interactions between socio-economic factors and environmental measures
+0,2,environmental change,can influence,human migration
+1,2,migration,is a strategy to cope with,environmental change in drylands
+2,2,environmental drivers,include,"precipitation, aridity, drought, land degradation, soil constraints, cropland, and pasture availability"
+3,2,out-migration,occurs most frequently in,clusters constrained by land degradation
+4,2,environmental drivers,can be grouped into,eight distinct clusters
+5,2,Burkina Faso,is a hotspot of,out-migration
+6,2,Northeast Brazil,is a hotspot of,out-migration
+7,2,land degradation,is a primary constraint for,migration in drylands
+8,2,environmental factors,are linked to,socio-economic factors in migration processes
+9,2,migration,is influenced by,environmental and economic factors
+10,2,high population density,is associated with,higher rates of negative net-migration
+11,2,environmental conditions,affect,livelihoods in drylands
+12,2,migration networks,are established due to,historical migration patterns
+13,2,droughts,are a push factor for,migration
+14,2,environmental stressors,trigger,migration
+15,2,cluster analysis,is used to,describe spatial patterns of environmental drivers of migration
+0,3,soil degradation,undermines,livelihoods of smallholder agriculturalists
+1,3,smallholders,lack,capital to maintain soil resources
+2,3,soil degradation,exacerbates,rural poverty
+3,3,migration,is influenced by,soil quality
+4,3,low soil quality,leads to,out-migration
+5,3,migration,is a strategy for,diversifying household livelihood
+6,3,soil quality,reduces,migration in Kenya
+7,3,soil quality,increases,migration in Uganda
+8,3,temporary migration,is common in,Kenya
+9,3,permanent non-labor migration,is higher with,high soil quality in Uganda
+10,3,poverty trap,restricts,participation in migration
+11,3,migration patterns,vary by,country context
+12,3,high soil quality,is associated with,lower temporary labor migration in Kenya
+13,3,high soil quality,is associated with,higher permanent non-labor migration in Uganda
+0,4,migration,is an adaptation for,households to cope with climate
+1,4,migration,is part of,the adaptation portfolio of households
+2,4,migration,is influenced by,long-term climatic conditions
+3,4,temperature in the dry season,has a hill-shaped relationship with,the propensity to migrate in farm households
+4,4,precipitation in the wet season,has a hill-shaped relationship with,the propensity to migrate in farm households
+5,4,climate,has no significant impact on,the propensity to migrate in non-farm households
+6,4,climate change scenarios,may lead to,decline in migration in Ghana and Nigeria
+7,4,hill-shaped relationship,exists between,temperature and migration propensity
+8,4,hill-shaped relationship,exists between,precipitation and migration propensity
+9,4,migration,is influenced by,agricultural productivity
+10,4,poor households,may not have resources to,finance migration
+11,4,migration decisions,are influenced by,household welfare
+12,4,high temperatures,may lead to,poverty traps for households
+13,4,climate change,may reduce,migration opportunities
+14,4,migration,is a response to,climatic conditions
+15,4,farm households,are more likely to,migrate under favorable climatic conditions
+16,4,non-farm households,are less likely to,be affected by climate in migration decisions
+0,5,migration,is influenced by,cultural norms
+1,5,migration,is influenced by,migration history
+2,5,migration,is influenced by,people's interpretations of weather
+3,5,migration,is influenced by,environmental changes
+4,5,climate change,affects,population movement
+5,5,climate variability,is perceived as,a driver for migration
+6,5,environmental changes,are assessed by,local populations
+7,5,migration patterns,are shaped by,historical context
+8,5,seasonal migration,is a strategy for,adapting to climatic conditions
+9,5,temporary migration,is linked to,seasonal labor opportunities
+10,5,Bandiagara,has migration to,Bamako and Ivory Coast
+11,5,Linguère,has migration to,Dakar
+12,5,climate and environmental factors,are perceived as,one of many influences on migration
+13,5,local assessments,show,diverse opinions on climate trends
+14,5,increased rainfall,contributes to,return of migrants
+15,5,migration motives,include,education and employment opportunities
+16,5,migration dynamics,are affected by,precipitation variability
+17,5,environmental degradation,is perceived as,a driver for migration
+18,5,cultural meanings,influence,people's assessments of climate
+19,5,migration,is a response to,economic and social changes
+0,6,rainfall variability,affects,human mobility
+1,6,rainfall shortage,is related to,out-migration
+2,6,food insecurity,is caused by,rainfall variability
+3,6,households,use migration as,risk management strategy
+4,6,migration,is influenced by,socioeconomic factors
+5,6,Ruvu Mferejini,has,highest percentage of migrants
+6,6,Vudee,has,highest average years of schooling
+7,6,migration,is a coping strategy for,food insecurity
+8,6,drought frequency,predominates,migration decisions
+9,6,communities,are affected by,rainfall variability
+10,6,migration,is less in,the wettest village
+11,6,economic migrants,are more than,educational migrants
+12,6,seasonal migration,makes up,53.4%
+13,6,food production,has decreased due to,rainfall variability
+14,6,traditional Ndivas,are important for,water storage
+15,6,communities,need support to,stay or migrate
+0,7,climate change,will displace,over 250 million people by 2050
+1,7,drought,is killing,livestock of Maasai
+2,7,Maasai,migrate,from rural homelands to urban centers
+3,7,migration,impacts,health perceptions of Maasai
+4,7,migrants,emphasize,importance of mental health
+5,7,non-migrants,emphasize,importance of physical health
+6,7,migrant participants,struggle with,mental health problems
+7,7,migration,is driven by,loss of livestock
+8,7,migrant women,seek,business opportunities in Arusha
+9,7,migrant participants,feel,intense responsibility to provide for families
+10,7,lack of social support,contributes to,poor mental health of migrants
+11,7,migrants,use,hospitals as a last resort
+12,7,migrant participants,perceive,fewer barriers to accessing healthcare
+13,7,mental health interventions,could improve,well-being of Maasai migrants
+14,7,climate-driven migration,influences,health perceptions and help-seeking behaviors
+15,7,future research,should investigate,healthcare underutilization by Maasai migrants
+0,8,migration,is central to,demographic research on the population-environment nexus
+1,8,climate-related events,affect,migration intentions
+2,8,households,experience,community stressors
+3,8,younger household heads,are more likely to,have migration intentions
+4,8,migration drivers,are,multifaceted
+5,8,climate-related events,do not directly explain,migration intentions
+6,8,irregular rainfall,is perceived as,a major community stressor
+7,8,bush fire,is associated with,migration intentions
+8,8,socio-demographic factors,are significant predictors of,migration intentions
+9,8,non-migrant households,are less likely to,report migration intentions
+10,8,unemployment,predicts,migration intentions
+11,8,climate-related events,are one of several,stressors affecting migration
+12,8,migration intentions,are influenced by,"social, economic, demographic, and environmental factors"
+13,8,population growth,impacts,land availability for agriculture
+14,8,migrant households,are more likely to,have migration intentions than non-migrant households
+15,8,climate-related events,challenge,livelihoods dependent on agriculture
+0,9,Tanzanian rural households,engage in,internal migration as a response to weather-related shocks
+1,9,weather shock,induces,1 percent reduction in agricultural income
+2,9,1 percent reduction in agricultural income,increases probability of,migration by 13 percentage points
+3,9,migration,is a risk management strategy for,households exposed to weather-related shocks
+4,9,migration decision,depends on,initial endowment
+5,9,households with diversified livelihoods,are,not significantly affected by weather shocks
+6,9,weather variability,is a source of risk for,rural households in developing countries
+7,9,weather shocks,impact,crop production
+8,9,crop production,is affected by,weather shocks
+9,9,migration probability,is higher for,households in the middle of wealth distribution
